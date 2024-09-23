@@ -38,5 +38,4 @@ public class Alien extends Sprite2D{
             return false;
         }
     }
-
 }
