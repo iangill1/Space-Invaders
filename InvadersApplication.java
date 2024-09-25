@@ -151,7 +151,6 @@ public class InvadersApplication extends JFrame implements Runnable, KeyListener
             } else {
                 this.repaint(); // 3: force an application repaint
             }
-
         }
     }
 
