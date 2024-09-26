@@ -10,7 +10,6 @@ public class PlayerBullet extends Sprite2D {
     public void move(){
         this.y -= ySpeed;
     }
-
     //remove bullet if it goes out of the window border
     public boolean pastBorder(){
         if(y <= 0){
